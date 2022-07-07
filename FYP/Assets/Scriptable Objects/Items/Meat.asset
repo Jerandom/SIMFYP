@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5b4b1eea8b6db643b9ecfed81522451, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  Name: Meat
+  Id: 3
+  uiDisplay: {fileID: 21300000, guid: 76aea247674aa664aa269bb44065d2e0, type: 3}
+  type: 0
+  description: Effective against zombies.

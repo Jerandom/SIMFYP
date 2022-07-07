@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae1db394107d8846971c8289694ca69, type: 3}
+  m_Name: Molotov
+  m_EditorClassIdentifier: 
+  Name: Molotov
+  Id: 4
+  uiDisplay: {fileID: 21300000, guid: 9f2f65c022bff0248a0d31d73f10ec7f, type: 3}
+  type: 1
+  description: Used to instantly kill an enemy.
